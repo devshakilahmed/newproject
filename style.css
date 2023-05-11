@@ -1,0 +1,63 @@
+body h1 h2 h3 h4 h5 p {
+    font-family: 'Work Sans', sans-serif;
+  }
+  /*--------hader menu section------*/
+  .navbar-brand img{
+    width: 40%;
+  }
+  /*-------------about1-section ---------*/
+  .about1-section{
+    background: #f9f9ff;
+  }
+  /*-------------about2-section ---------*/
+  .about2-section{
+    background: #f9f9ff;
+  }
+  .about2-section img{
+    height: 300px;
+  }
+  /*---number-counter---*/
+  .number-counter{
+    background: #8490ff;
+  }
+  
+  /*---Servies-section-counter---*/
+  .Servies-section{
+    background: #f9f9ff;
+  }
+  .Servies-section span{
+    font-size: 30px;
+    padding: 5px;
+    background: #a2a2a58e;
+    border-radius: 50%;
+  }
+  .Servies-section .card-eidt{
+    background: #ffffff;
+  }
+  .Servies-section .card-eidt p{
+    font-size: 14px;
+    line-height: 2.7rem;
+  }
+  
+  
+  
+  
+  /*----------- Conent Section ------------ */
+  .contnt-form-div .card{
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.2);
+    padding: 40px;
+  }
+  .addres-eidet{
+    margin-top: 110px;
+  }
+  .addres-eidet h5{
+    font-size: 14px;
+  }
+  /*--------footer section------*/
+  .footer{
+    background: #04091e;
+    font-size: 20px;
+    color: #e6dada;
+  }
+  
+  
